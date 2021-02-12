@@ -1,0 +1,7 @@
+2. I’ve spend 4 hours on the technical test. I wouldn’t add anything else and I’m happy with my solutions.
+3. AI and machine learning is the most interesting trend in test automation. The purpose of AI and machine learning is to make machines learn without being programmed. It can make testing more dependable and expectable.
+4. I’ve never performed test automation in a legacy application. However, I would identify specific areas of the app that uses a lot of user frequency. So I would focus on automating the GUI.
+5. To improve the customer experience, I would add a “fastest delivery time” feature when the user enters their postcode and sort the results by “Fastest delivery time”.
+6. Please describe yourself using JSON. { "name": "Justin Arthur", "age": 34, 
+"Enjoys": ["writing", "gaming", "deep conversations"] "Hobbies: ["Capoeira, an Afro-Brazilian Martial Art", "gym", "video games", “playing with his dog, Mr.Valentine”] 
+"Currently Learning": ["Selenium", "Javascript", “Cucumber”, "Test Automation"] }
